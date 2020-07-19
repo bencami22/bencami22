@@ -13,4 +13,4 @@ var hobbies = new[] {"Travelling", "Working out", "Conversations with friends ov
 <a href="https://www.linkedin.com/in/camilleriben/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 
-![wave](https://github.com/bencami22/bencami22/edit/master/wave.gif)
+![wave](https://github.com/bencami22/bencami22/raw/master/wave.gif)
