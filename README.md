@@ -28,4 +28,4 @@ var hobbies = new[] {"Travelling", "Working out", "Conversations with friends ov
 <a href="https://www.linkedin.com/in/camilleriben/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 
-![so much wow](wow.gif)
+![so much wow](/wow.gif)
